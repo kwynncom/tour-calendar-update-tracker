@@ -1,3 +1,8 @@
+UPDATES - 2022/01
+
+I plan to remove the live links.  For my own historical purposes, they were at /t/20/02/dci/ and /t/9/08/dci/
+
+*****
 WHAT THIS DOES
 
 This keeps track of a performance calendar, checking when tickets are on sale, which groups are performing, etc.  
