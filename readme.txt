@@ -4,7 +4,7 @@ This keeps track of a performance calendar, checking when tickets are on sale, w
 
 This makes HTTP calls to get the info.  
 
-A running version is at https://kwynn.com/t/20/02/dci/  .  This is probably one of the most unstable links on my web site, though.  It will probably be gone 
+A running version is at [... removed] .  This is probably one of the most unstable links on my web site, though.  It will probably be gone 
 by August of 2020, although a replacement should soon appear, and perhaps I'll post that code, too.
 
 I'm being obscure about details for what will be obvious reasons to some of you. Here is what I will say:
